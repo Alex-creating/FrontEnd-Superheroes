@@ -1,0 +1,28 @@
+#display{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+}
+
+.card-m5{
+    border-top: 5px black solid;
+    border-bottom: 5px black solid;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.card-body{
+    text-decoration: underline;
+    border-bottom: 5px black dotted;
+    background-color: black;
+    color: white;
+}
+
+.card-text{
+    border-bottom: 5px black solid;
+    background-color: rgb(52, 171, 201);
+}
+
+button{
+    align-self: center;
+}
